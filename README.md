@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishan Geethanjana</h1>
-<h3 align="center">💻 Full-Stack Coder | Mobile App Lover | UI/UX Animator</h3>
+<h3 align="center">💻 Full-Stack Coder | Mobile App Lover </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Creative+Coder+from+Sri+Lanka;I+design+UI+with+animation+and+sound;I+love+JS%2C+Python%2C+Swift%2C+and+Web+Apps" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishangeethanjana&label=Profile+Views&color=0e75b6&style=flat" alt="ishangeethanjana" />
+  <img src="https://komarev.com/ghpvc/?username=ishangeethanjana&label=👀+Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
