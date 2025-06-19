@@ -1,57 +1,77 @@
-<h1 align="center">✨ Ishan's iPhone-Style Calculator + Clock App ⏱️</h1>
+<h1 align="center">🧠 Coder's Mind – Built by Ishan Geethanjana 💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 <p align="center">
-  🔥 Modern | 🎨 Beautiful UI | 🧠 Smart Features | 🎤 Voice Control  
-</p>
-
----
-
-## 🪄 What is this?
-
-An ultra-sleek, **animated calculator + clock app** built with 💻 **HTML, CSS & JavaScript** – designed with love and inspired by iOS minimal design.
-
-> 📲 Android-Ready via Sketchware / Android Studio WebView  
-> 💡 Real-time Clock | 🎤 Voice Input | 🎨 Dark Mode | 💫 Smooth UI Animations  
-
----
-
-## 🌟 Live Preview (GIF)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400" />
+  🔥 Dreaming in Code • 🎨 Designing with Heart • 🚀 Creating the Future
 </p>
 
 ---
 
-## ✨ Features You'll Love
+## 🙌 Who am I?
 
-✅ **Real-time clock** with stylish font  
-✅ **iPhone-style calculator** with glassmorphism  
-✅ **Voice-enabled** calculations – Say “10 plus 5”!  
-✅ **Dark mode** toggle 🌙  
-✅ **UI animations** – hover, bounce, glow, scroll FX  
-✅ **Mobile responsive** + **Web-ready**  
-✅ Android app compatible with **WebView or Sketchware**
+I’m **Ishan**, a young developer from 🇱🇰 Sri Lanka with a *fire* in my fingertips and *vision* in my mind.
+
+> I don’t just write code. I **craft experiences**,  
+> mix logic with style, and build things that feel **alive**. 🎯
 
 ---
 
-## 🎨 UI Design Inspiration
+## ⚡ What I Do
 
-> Soft shadows, smooth buttons, curved edges — made to feel *alive* 💖
+- 💡 Build web & Android apps with HTML, CSS, JS  
+- 🎮 Add animations, voice control, interactive features  
+- 🌙 Design in dark mode, scroll effects, and clean UI  
+- 🛠️ Use Sketchware & Android Studio for mobile apps  
+- 📚 Study hard for O/Ls — and still never stop building!
+
+---
+
+## 🧬 My Favorite Tools
+
+| Tool         | Why I Love It ❤️            |
+|--------------|------------------------------|
+| `HTML/CSS`   | Creative design, endless UI  |
+| `JavaScript` | Logic, animation, control    |
+| `Sketchware` | App dev without code         |
+| `Android Studio` | Full power to publish   |
+| `GitHub`     | Share with the world         |
+
+---
+
+## 🔥 Coding = My Lifestyle
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 </p>
+
+> “When others sleep, I **build**.  
+> When others scroll, I **create**.  
+> Coding is not just a skill. It’s my **superpower**. 🦸‍♂️💻”
 
 ---
 
-## 📂 How to Use
+## 🎯 My Mission
 
-```bash
-git clone https://github.com/IshanGeethanjana/iphone-calc-clock.git
-cd iphone-calc-clock
-open index.html
+- 🧠 Learn every day  
+- ✨ Build creative apps  
+- 🚀 Help others & inspire young coders  
+- 📲 Upload pro-level apps to Play Store  
+- 🌍 Represent Sri Lanka with pride 🇱🇰
+
+---
+
+## 📞 Let’s Connect
+
+Made with 🧠 + ❤️ by **Ishan Geethanjana**  
+📬 Email: `you@example.com`  
+🛰️ Location: Sri Lanka 🇱🇰  
+📌 Follow for 🔥 projects, cool animations & powerful UI!
+
+---
+
+> ⭐ Star my repos  
+> 🧠 Build something today  
+> 🚀 Inspire someone tomorrow
