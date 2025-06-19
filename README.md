@@ -25,6 +25,11 @@
 - 🎨 Special skills: UI animation, sound design, app conversion (web ➜ Android)
 - 🎯 Goal: To become one of the top creative developers in the world
 
+## 🧠 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=💻+I+love+building+beautiful+apps.;🌐+Passionate+in+Web+%26+Mobile+Development.;🎨+Creative+with+UI%2C+UX%2C+%26+Animations.;🧠+Learning+daily+to+go+top+in+tech.;🇱🇰+Based+in+Sri+Lanka." alt="Animated About Me" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
