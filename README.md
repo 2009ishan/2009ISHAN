@@ -25,11 +25,6 @@
 - 🎨 Special skills: UI animation, sound design, app conversion (web ➜ Android)
 - 🎯 Goal: To become one of the top creative developers in the world
 
-## 🧠 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=💻+I+love+building+beautiful+apps.;🌐+Passionate+in+Web+%26+Mobile+Development.;🎨+Creative+with+UI%2C+UX%2C+%26+Animations.;🧠+Learning+daily+to+go+top+in+tech.;🇱🇰+Based+in+Sri+Lanka." alt="Animated About Me" />
-</p>
 ---
 
 ## 🛠️ Tech Stack
@@ -94,6 +89,25 @@ Web + JavaScript + Android Studio
 - 🌍 Website: [ishangeethanjana.dev](https://ishangeethanjana.dev)  
 
 ---
+---
+
+## 🦖 Dino Time! – Bonus Game
+
+Feeling bored? Jump into this Dino game inspired by Chrome's offline game!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IshanCodes4/dino-gif/main/dino-run.gif" width="300" alt="Dino Game Preview" />
+</p>
+
+<p align="center">
+  <a href="https://dino-game.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Play%20Dino%20Now%20🦖-1f1ee1?style=for-the-badge&color=00C896&logo=google-chrome" />
+  </a>
+</p>
+
+<p align="center">
+  ⚠️ Tap spacebar to jump — try not to get caught! 🌵
+</p>
 
 <p align="center">
   🔥 *"I code not just for logic... I code for beauty, interaction, and fun!"*
