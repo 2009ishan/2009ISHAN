@@ -15,15 +15,42 @@
 
 - ⚡ Fun fact **Ishan**
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="line_break.gif"></a>
+
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" src="computer.gif" alt="RavinduWeerakoon" height="220"/></a>
+
+
+<details>
+  <summary><b>:paw_prints: GitHub Statistics</b></summary><br>
+  
+[![Chathura's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavinduWeerakoon&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&bg_color=1a101c25&icon_color=9595ea&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only)](https://github.com/RavinduWeerakoon#gh-dark-mode-only)
+
+[![Chathura's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavinduWeerakoon&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&bg_color=fdf5ff&text_color=000000&title_color=2f2f96&border_radius=10&border_color=4747d8&icon_color=c97bde#gh-light-mode-only)](https://github.com/RavinduWeerakoon#gh-light-mode-only)
+
+</details>  
+<details>
+  <summary><b>:paw_prints: Top languages</b></summary><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduWeerakoon&hide=Tcl,HTML,Pascal,Perl,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages%20in%20FOSS%20Projects&card_width=470px&bg_color=1a101c25&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only)](https://github.com/RavinduWeerakoon#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduWeerakoon&hide=Tcl,HTML,Pascal,Perl,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages%20in%20FOSS%20Projects&card_width=470px&bg_color=fdf5ff&text_color=000000&title_color=2f2f96&border_radius=10&border_color=4747d8#gh-light-mode-only)](https://github.com/RavinduWeerakoon#gh-light-mode-only)
+
+</details>
+<br>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/ravindu2001/" target="blank"><img align="center"
+      src="icons\linkedin.svg"
+      alt="RavinduWeerakoon" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/15209066/rav2001" target="blank"><img align="center"
+      src="icons\stackoverflow.svg" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/210685N_CSE_21" target="blank"><img align="center"
+      src="icons\hackerrank.svg"
+      alt="RavinduWeerakoon" height="30" width="40" /></a>
+ <a href="https://twitter.com/nope" target="blank"><img align="center"
+      src="icons\twitter.svg"
+      alt="RavinduWeerakoon" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2009ishan&show_icons=true&locale=en&layout=compact" alt="2009ishan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&locale=en" alt="2009ishan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2009ishan&" alt="2009ishan" /></p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="line_break.gif"></a>
