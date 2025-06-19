@@ -29,15 +29,18 @@ I’m **Ishan**, a young developer from 🇱🇰 Sri Lanka with a *fire* in my f
 
 ---
 
-## 🧬 My Favorite Tools
 
-| Tool         | Why I Love It ❤️            |
-|--------------|------------------------------|
-| `HTML/CSS`   | Creative design, endless UI  |
-| `JavaScript` | Logic, animation, control    |
-| `Sketchware` | App dev without code         |
-| `Android Studio` | Full power to publish   |
-| `GitHub`     | Share with the world         |
+## 📝 Programming Languages Review
+
+| Language    | Level       | Comments                          |
+|-------------|-------------|---------------------------------|
+| HTML        | 🔥🔥🔥🔥🔥    | Strong foundation, excellent for building web layouts |
+| CSS         | 🔥🔥🔥🔥      | Skilled in styling and animations |
+| JavaScript  | 🔥🔥🔥🔥🔥    | Confident in DOM manipulation and interactive apps |
+| Python      | 🔥🔥🔥🔥      | Good for scripting and AI basics |
+| Swift       | 🔥🔥🔥        | Basic knowledge for iOS development |
+| PHP         | 🔥🔥🔥        | Understanding of server-side scripting |
+| Ruby        | 🔥🔥          | Beginner level, familiar with syntax |
 
 ---
 
