@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Geethanjana</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF3CAC&center=true&vCenter=true&width=450&lines=Hi+I'm+Ishan+Geethanjana; Full+Stack+Coder+from+Sri+Lanka;Lover+of+Code%2C+Design+%26+Animation!" alt="Ishan Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF3CAC&center=true&vCenter=true&width=450&lines=Hi+I'm+Ishan+Geethanjana;Full+Stack+Coder+from+Sri+Lanka;Lover+of+Code%2C+Design+%26+Animation!" alt="Ishan Typing Animation" />
 </p>
 <h3 align="center">💻 Full-Stack Coder | Mobile App Lover </h3>
 
