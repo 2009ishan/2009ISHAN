@@ -90,31 +90,21 @@ Web + JavaScript + Android Studio
 
 ---
 ---
-
 ---
 
-## 🕹️ Welcome to the Game Zone
+## 🧠 Mini Game Zone – Guess the Output!
+
+Test your JavaScript knowledge! Can you guess the correct output?
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F7F730&center=true&vCenter=true&width=500&lines=🚀+Let's+Play+Something+Fun!;🦖+Dino+Runner+Challenge!;🎯+Can+You+Beat+Your+High+Score%3F" alt="Game Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Guess+the+Output!;Can+you+get+it+right%3F+%F0%9F%91%80" alt="Typing Quiz Game" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="250px" alt="Dino Running GIF" />
-</p>
-
-<p align="center">
-  <a href="https://dino-game.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🎮%20PLAY%20DINO%20GAME%20NOW-00C97E?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  🦖 Press <strong>Spacebar</strong> to jump & survive the cactus storm 🌵  
-  <br/>  
-  🏆 Challenge yourself — it's addictive!
-</p>
-
+### 👉 Code Challenge:
+```js
+let a = [1, 2, 3];
+a[10] = 99;
+console.log(a.length);
 ---
 
 <p align="center">
