@@ -5,7 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Creative+Coder+from+Sri+Lanka;I+design+UI+with+animation+and+sound;I+love+JS%2C+Python%2C+Swift%2C+and+Web+Apps" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishangeethanjana&label=👀+Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ishangeethanjana&label=👁️‍🗨️+Profile+Views&color=FF69B4&style=for-the-badge" alt="Profile Views" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F72CB3&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;I+see+you!+😎;Keep+coding+with+me!" alt="Visit animation" />
 </p>
 
 ---
