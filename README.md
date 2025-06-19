@@ -29,49 +29,12 @@ I’m **Ishan**, a young developer from 🇱🇰 Sri Lanka with a *fire* in my f
 
 ---
 
-## 🧬 My Favorite Tools
+## 🧠 Languages I Use
 
-| Tool         | Why I Love It ❤️            |
-|--------------|------------------------------|
-| `HTML/CSS`   | Creative design, endless UI  |
-| `JavaScript` | Logic, animation, control    |
-| `Sketchware` | App dev without code         |
-| `Android Studio` | Full power to publish   |
-| `GitHub`     | Share with the world         |
-
----
-
-## 🔥 Coding = My Lifestyle
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-</p>
-
-> “When others sleep, I **build**.  
-> When others scroll, I **create**.  
-> Coding is not just a skill. It’s my **superpower**. 🦸‍♂️💻”
-
----
-
-## 🎯 My Mission
-
-- 🧠 Learn every day  
-- ✨ Build creative apps  
-- 🚀 Help others & inspire young coders  
-- 📲 Upload pro-level apps to Play Store  
-- 🌍 Represent Sri Lanka with pride 🇱🇰
-
----
-
-## 📞 Let’s Connect
-
-Made with 🧠 + ❤️ by **Ishan Geethanjana**  
-📬 Email: `ishangeethanjana2009.11.4.com`  
-🛰️ Location: Sri Lanka 🇱🇰  
-📌 Follow for 🔥 projects, cool animations & powerful UI!
-
----
-
-> ⭐ Star my repos  
-> 🧠 Build something today  
-> 🚀 Inspire someone tomorrow
+```txt
+🖌️ HTML & CSS     – Beautiful, clean web UIs  
+🧩 JavaScript      – Dynamic, interactive web logic  
+🐍 Python          – Powerful scripting & logic  
+🍎 Swift           – iOS mobile development  
+🌐 PHP             – Backend & server-side scripting  
+💎 Ruby            – Elegant and fun to write
