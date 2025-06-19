@@ -1,82 +1,87 @@
-<h1 align="center">Hi there 👋, I'm Ishan Geethanjana</h1>
-<h3 align="center">💻 Top-Level Developer | Creative Coder | App Designer 🎨</h3>
+<h1 align="center">Hi 👋, I'm Ishan Geethanjana</h1>
+<h3 align="center">💻 Full-Stack Coder | Mobile App Lover | UI/UX Animator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+build+cool+web+%26+mobile+apps;I+❤️+creative+coding+and+AI;Always+learning+new+tech!;Let's+code+together!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Creative+Coder+from+Sri+Lanka;I+design+UI+with+animation+and+sound;I+love+JS%2C+Python%2C+Swift%2C+and+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **AI-enabled Calculator App**
-- 🌱 Learning more about: **React, Flutter, and Next.js**
-- 🧩 Favorite tech stack: `HTML` | `CSS` | `JavaScript` | `Python` | `Swift`
-- 🎯 Goal: Become a full-stack mobile/web developer
-- 🎨 I love animations, 3D UI, and sound integration
-
----
-
-## 🚀 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
+- 🌍 Based in: **Sri Lanka 🇱🇰**
+- 💬 Languages I know: `HTML`, `CSS`, `JavaScript`, `Python`, `Swift`, `PHP`, `Ruby`
+- 🔥 Projects I build: Web apps, Android apps, Voice apps, Clocks, Calculators
+- 🎨 Special skills: UI animation, sound design, app conversion (web ➜ Android)
+- 🎯 Goal: To become one of the top creative developers in the world
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔢 Voice Calculator + Clock App
-> AI Voice enabled | UI animations | Clean mobile-first design  
-Built with: `HTML`, `CSS`, `JavaScript`  
-🎯 Features:
-- Voice input support
-- Day/Night theme switch
-- Clock with digital UI
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
 
-### 📱 Android App (WebView)
-> Converted web app to full Android app using Sketchware & Android Studio  
-- Smooth animations & gestures  
-- Works offline  
-- Integrated settings panel
+**Backend & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)  
+
+**Mobile / App Dev**  
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)  
+![Sketchware](https://img.shields.io/badge/Sketchware-0088CC?logo=android&logoColor=white)
 
 ---
 
-## ✨ Features I Love to Add
+## 🚀 Projects You Must See
 
-- [x] 🔊 Voice control
-- [x] 🕐 Animated digital clock
-- [x] 🎨 Light/Dark mode
-- [x] 🔁 Page transitions
-- [x] 📲 Web to Android conversion
-- [x] 🎵 Background sound effects
-- [x] 🖼️ Animated illustrations
+### 🎙️ Voice Calculator
+`HTML + CSS + JS` | Dark Mode | Animation | Speech Recognition  
+> Advanced UI + Clock + Customizable themes
+
+### ⏰ Clock App (iOS Style)
+Smooth flip clock, neon style, fully responsive  
+> Includes sound effects & dark/light toggle
+
+### 📲 Android WebView App
+Web + JavaScript + Android Studio  
+> Your website as an Android app (offline + native)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishangeethanjana&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangeethanjana&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishangeethanjana&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangeethanjana&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🧩 Features I Use in My Projects
 
-- 📧 Email: **ishan@example.com**  
-- 🌐 Website: [ishangeethanjana.dev](https://ishangeethanjana.dev)  
-- 📱 Instagram: [@ishan.dev](https://instagram.com/ishan.dev)  
-- 🔗 LinkedIn: [linkedin.com/in/ishangeethanjana](https://linkedin.com/in/ishangeethanjana)
+- [x] 🔊 Voice Control
+- [x] 🌗 Light/Dark Mode
+- [x] 🕒 Clocks and Timers
+- [x] 📱 WebView Android Apps
+- [x] 🎨 UI/UX Animations
+- [x] 🎵 Background Audio
+- [x] ⚙️ Settings Panels
 
 ---
 
-<p align="center">  
-  ⚡ *Coding is not just skill — it's my art, my game, my way of life.*  
+## 📬 Contact Me
+
+- 📧 Email: **ishan@example.com**  
+- 🌍 Website: [ishangeethanjana.dev](https://ishangeethanjana.dev)  
+- 🧑‍💼 LinkedIn: [linkedin.com/in/ishangeethanjana](https://linkedin.com/in/ishangeethanjana)  
+- 📱 Instagram: [@ishan.dev](https://instagram.com/ishan.dev)
+
+---
+
+<p align="center">
+  🔥 *"I code not just for logic... I code for beauty, interaction, and fun!"*
 </p>
