@@ -90,22 +90,6 @@ Web + JavaScript + Android Studio
 
 ---
 ---
----
-
-## 🧠 Mini Game Zone – Guess the Output!
-
-Test your JavaScript knowledge! Can you guess the correct output?
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Guess+the+Output!;Can+you+get+it+right%3F+%F0%9F%91%80" alt="Typing Quiz Game" />
-</p>
-
-### 👉 Code Challenge:
-```js
-let a = [1, 2, 3];
-a[10] = 99;
-console.log(a.length);
----
 
 <p align="center">
   🔥 *"I code not just for logic... I code for beauty, interaction, and fun!"*
