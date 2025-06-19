@@ -1,80 +1,82 @@
-<h1 align="center">🧠 Coder's Mind – Built by Ishan Geethanjana 💻</h1>
+<h1 align="center">Hi there 👋, I'm Ishan Geethanjana</h1>
+<h3 align="center">💻 Top-Level Developer | Creative Coder | App Designer 🎨</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
-<p align="center">
-  🔥 Dreaming in Code • 🎨 Designing with Heart • 🚀 Creating the Future
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+build+cool+web+%26+mobile+apps;I+❤️+creative+coding+and+AI;Always+learning+new+tech!;Let's+code+together!🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🙌 Who am I?
+## 🧠 About Me
 
-I’m **Ishan**, a young developer from 🇱🇰 Sri Lanka with a *fire* in my fingertips and *vision* in my mind.
-
-> I don’t just write code. I **craft experiences**,  
-> mix logic with style, and build things that feel **alive**. 🎯
-
----
-
-## ⚡ What I Do
-
-- 💡 Build web & Android apps with HTML, CSS, JS  
-- 🎮 Add animations, voice control, interactive features  
-- 🌙 Design in dark mode, scroll effects, and clean UI  
-- 🛠️ Use Sketchware & Android Studio for mobile apps  
-- 📚 Study hard for O/Ls — and still never stop building!
+- 🔭 I’m currently working on: **AI-enabled Calculator App**
+- 🌱 Learning more about: **React, Flutter, and Next.js**
+- 🧩 Favorite tech stack: `HTML` | `CSS` | `JavaScript` | `Python` | `Swift`
+- 🎯 Goal: Become a full-stack mobile/web developer
+- 🎨 I love animations, 3D UI, and sound integration
 
 ---
 
+## 🚀 Tech Stack
 
-## 📝 Programming Languages Review
-
-| Language    | Level       | Comments                          |
-|-------------|-------------|---------------------------------|
-| HTML        | 🔥🔥🔥🔥🔥    | Strong foundation, excellent for building web layouts |
-| CSS         | 🔥🔥🔥🔥      | Skilled in styling and animations |
-| JavaScript  | 🔥🔥🔥🔥🔥    | Confident in DOM manipulation and interactive apps |
-| Python      | 🔥🔥🔥🔥      | Good for scripting and AI basics |
-| Swift       | 🔥🔥🔥        | Basic knowledge for iOS development |
-| PHP         | 🔥🔥🔥        | Understanding of server-side scripting |
-| Ruby        | 🔥🔥          | Beginner level, familiar with syntax |
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
 
 ---
 
-## 🔥 Coding = My Lifestyle
+## 🌟 Featured Projects
+
+### 🔢 Voice Calculator + Clock App
+> AI Voice enabled | UI animations | Clean mobile-first design  
+Built with: `HTML`, `CSS`, `JavaScript`  
+🎯 Features:
+- Voice input support
+- Day/Night theme switch
+- Clock with digital UI
+
+### 📱 Android App (WebView)
+> Converted web app to full Android app using Sketchware & Android Studio  
+- Smooth animations & gestures  
+- Works offline  
+- Integrated settings panel
+
+---
+
+## ✨ Features I Love to Add
+
+- [x] 🔊 Voice control
+- [x] 🕐 Animated digital clock
+- [x] 🎨 Light/Dark mode
+- [x] 🔁 Page transitions
+- [x] 📲 Web to Android conversion
+- [x] 🎵 Background sound effects
+- [x] 🖼️ Animated illustrations
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishan-codes&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-codes&layout=compact&theme=radical" width="300" />
 </p>
 
-> “When others sleep, I **build**.  
-> When others scroll, I **create**.  
-> Coding is not just a skill. It’s my **superpower**. 🦸‍♂️💻”
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: **ishan@example.com**  
+- 🌐 Website: [ishangeethanjana.dev](https://ishangeethanjana.dev)  
+- 📱 Instagram: [@ishan.dev](https://instagram.com/ishan.dev)  
+- 🔗 LinkedIn: [linkedin.com/in/ishangeethanjana](https://linkedin.com/in/ishangeethanjana)
 
 ---
 
-## 🎯 My Mission
-
-- 🧠 Learn every day  
-- ✨ Build creative apps  
-- 🚀 Help others & inspire young coders  
-- 📲 Upload pro-level apps to Play Store  
-- 🌍 Represent Sri Lanka with pride 🇱🇰
-
----
-
-## 📞 Let’s Connect
-
-Made with 🧠 + ❤️ by **Ishan Geethanjana**  
-📬 Email: `you@example.com`  
-🛰️ Location: Sri Lanka 🇱🇰  
-📌 Follow for 🔥 projects, cool animations & powerful UI!
-
----
-
-> ⭐ Star my repos  
-> 🧠 Build something today  
-> 🚀 Inspire someone tomorrow
+<p align="center">  
+  ⚡ *Coding is not just skill — it's my art, my game, my way of life.*  
+</p>
