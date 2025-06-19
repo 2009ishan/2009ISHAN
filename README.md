@@ -91,23 +91,31 @@ Web + JavaScript + Android Studio
 ---
 ---
 
-## 🦖 Dino Time! – Bonus Game
+---
 
-Feeling bored? Jump into this Dino game inspired by Chrome's offline game!
+## 🕹️ Welcome to the Game Zone
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IshanCodes4/dino-gif/main/dino-run.gif" width="300" alt="Dino Game Preview" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F7F730&center=true&vCenter=true&width=500&lines=🚀+Let's+Play+Something+Fun!;🦖+Dino+Runner+Challenge!;🎯+Can+You+Beat+Your+High+Score%3F" alt="Game Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="250px" alt="Dino Running GIF" />
 </p>
 
 <p align="center">
   <a href="https://dino-game.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/▶️%20Play%20Dino%20Now%20🦖-1f1ee1?style=for-the-badge&color=00C896&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/🎮%20PLAY%20DINO%20GAME%20NOW-00C97E?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  ⚠️ Tap spacebar to jump — try not to get caught! 🌵
+  🦖 Press <strong>Spacebar</strong> to jump & survive the cactus storm 🌵  
+  <br/>  
+  🏆 Challenge yourself — it's addictive!
 </p>
+
+---
 
 <p align="center">
   🔥 *"I code not just for logic... I code for beauty, interaction, and fun!"*
