@@ -55,7 +55,7 @@ Web + JavaScript + Android Studio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishangeethanjana&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=tokyonight" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangeethanjana&layout=compact&theme=tokyonight" width="300" />
 </p>
 
@@ -75,7 +75,7 @@ Web + JavaScript + Android Studio
 
 ## 📬 Contact Me
 
-- 📧 Email: **ishan@example.com**  
+- 📧 Email: **ishangeethanjana2009.11.4.com**  
 - 🌍 Website: [ishangeethanjana.dev](https://ishangeethanjana.dev)  
 - 🧑‍💼 LinkedIn: [linkedin.com/in/ishangeethanjana](https://linkedin.com/in/ishangeethanjana)  
 - 📱 Instagram: [@ishan.dev](https://instagram.com/ishan.dev)
