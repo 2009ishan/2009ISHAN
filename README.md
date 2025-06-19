@@ -80,8 +80,6 @@ Web + JavaScript + Android Studio
 
 - 📧 Email: **ishangeethanjana2009.11.4@gmail.com**  
 - 🌍 Website: [ishangeethanjana.dev](https://ishangeethanjana.dev)  
-- 🧑‍💼 LinkedIn: [linkedin.com/in/ishangeethanjana](https://linkedin.com/in/ishangeethanjana)  
-- 📱 Instagram: [@ishan.dev](https://instagram.com/ishan.dev)
 
 ---
 
