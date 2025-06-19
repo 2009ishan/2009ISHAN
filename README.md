@@ -66,7 +66,7 @@ I’m **Ishan**, a young developer from 🇱🇰 Sri Lanka with a *fire* in my f
 ## 📞 Let’s Connect
 
 Made with 🧠 + ❤️ by **Ishan Geethanjana**  
-📬 Email: `you@example.com`  
+📬 Email: `ishangeethanjana2009.11.4.com`  
 🛰️ Location: Sri Lanka 🇱🇰  
 📌 Follow for 🔥 projects, cool animations & powerful UI!
 
