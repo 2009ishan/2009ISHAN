@@ -7,6 +7,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishangeethanjana&label=🔥+Profile+Views&color=FF5733&style=for-the-badge" alt="Profile Views" />
 </p>
+<h3 align="left">
+  👀 Profile Views
+</h3>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=39FF14&center=false&vCenter=false&width=250&lines=You+visited+my+profile!;Glad+to+see+you+here!;Total+Views:+👀" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200px" alt="Sparkle Animation" />
