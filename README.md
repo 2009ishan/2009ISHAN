@@ -61,10 +61,7 @@ Web + JavaScript + Android Studio
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2009ishan&layout=compact&theme=tokyonight" width="300" />
-</p>
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=radical)
 
 ---
 
