@@ -63,38 +63,6 @@ Web + JavaScript + Android Studio
 
 ## 📊 GitHub Stats 
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Coding+Lover;HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%7C+Swift+%7C+Ruby+%7C+PHP" alt="Typing SVG" />
-</p>
-
-<!-- GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- Streak stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2009ishan&theme=radical" alt="GitHub Streak" />
-</p>
-
-<!-- Top languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2009ishan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<h3 align="left">💻 Languages I Use:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="60" height="60"/>
-</p>
-
-
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Geethanjana;Full+Stack+Developer;Coding+Lover+%F0%9F%92%BB" alt="Typing SVG" />
