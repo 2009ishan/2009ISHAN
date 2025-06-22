@@ -93,6 +93,39 @@ Web + JavaScript + Android Studio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="60" height="60"/>
 </p>
 
+
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Geethanjana;Full+Stack+Developer;Coding+Lover+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=tokyonight&border_radius=15" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=2009ishan&theme=tokyonight&border_radius=15" alt="GitHub Streak Stats" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2009ishan&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
+</p>
+
+<!-- Languages with Icons -->
+<h3 align="center">🛠️ Languages & Tools I Use</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" />
+</p>
 ---
 
 ## 🧩 Features I Use in My Projects
