@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Creative+Developer;Loves+HTML%2C+CSS%2C+JS+%26+Python;Follow+for+cool+projects!" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Coding Laptop" width="700" />
+</p>
 
 ---
 
