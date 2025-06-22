@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Creative+Developer;Loves+HTML%2C+CSS%2C+JS+%26+Python;Follow+for+cool+projects!" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" alt="Coding Animation" width="700" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Boy Coding Animation" width="400" />
 </p>
 
 ---
