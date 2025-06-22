@@ -1,4 +1,4 @@
-
+![Build Status](https://img.shields.io/badge/build-failing-red)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=lightblue&center=true&vCenter=true&width=600&lines=Hi+I'm+Ishan+Geethanjana" alt="Typing Animation" />
 </p>
