@@ -59,11 +59,7 @@ Web + JavaScript + Android Studio
 
 ---
 
-## 📊 GitHub Stats
-
-![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=radical)
-
-<h1 align="center">Hi 👋, I'm Ishan Geethanjana</h1>
+## 📊 GitHub Stats 
 
 <!-- Typing animation -->
 <p align="center">
