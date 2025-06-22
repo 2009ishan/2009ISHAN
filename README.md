@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Creative+Developer;Loves+HTML%2C+CSS%2C+JS+%26+Python;Follow+for+cool+projects!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Laptop Animation" width="500" />
 </p>
 
 ---
