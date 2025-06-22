@@ -48,6 +48,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=2009ishan&theme=radical&row=1&column=7"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=2009ishan&theme=radical&hide_border=false" />
+</p>
 ---
 
 ### 📫 Contact Me:
