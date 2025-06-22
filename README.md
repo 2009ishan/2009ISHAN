@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👁‍🗨-10,000%2B%20Views-red?style=for-the-badge&logo=github&logoColor=white&animation=spin" alt="10,0000" />
+  <img src="https://img.shields.io/badge/👁‍🗨-10,000%2B%20Views-red?style=for-the-badge&logo=github&logoColor=white&animation=spin" alt="100000" />
 </p>
 
 ### 👨‍💻 About Me:
