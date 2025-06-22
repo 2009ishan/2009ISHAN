@@ -1,121 +1,57 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Geethanjana" alt="Typing Animation" />
-</h1>
-<h3 align="center">💻 Full-Stack Coder | Mobile App Lover </h3>
+<h1 align="center">Hi 👋, I'm Ishan Geethanjana</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Creative+Coder+from+Sri+Lanka;I+design+UI+with+animation+and+sound;I+love+JS%2C+Python%2C+Swift%2C+and+Web+Apps" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishangeethanjana&label=🔥+Profile+Views&color=FF5733&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200px" alt="Sparkle Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Creative+Developer;Loves+HTML%2C+CSS%2C+JS+%26+Python;Follow+for+cool+projects!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🌍 Based in: **Sri Lanka 🇱🇰**
-- 💬 Languages I know: `HTML`, `CSS`, `JavaScript`, `Python`, `Swift`, `PHP`, `Ruby`
-- 🔥 Projects I build: Web apps, Android apps, Voice apps, Clocks, Calculators
-- 🎨 Special skills: UI animation, sound design, app conversion (web ➜ Android)
-- 🎯 Goal: To become one of the top creative developers in the world
+### 👨‍💻 About Me:
+- 🧠 I’m learning **HTML, CSS, JavaScript, Python, PHP, Ruby, Swift**
+- 🌱 Working on animated web apps & calculators
+- 🔗 [Visit My GitHub Profile](https://github.com/2009ishan)
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-
-**Backend & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)  
-
-**Mobile / App Dev**  
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)  
-![Sketchware](https://img.shields.io/badge/Sketchware-0088CC?logo=android&logoColor=white)
-
----
-
-## 🚀 Projects You Must See
-
-### 🎙️ Voice Calculator
-`HTML + CSS + JS` | Dark Mode | Animation | Speech Recognition  
-> Advanced UI + Clock + Customizable themes
-
-### ⏰ Clock App (iOS Style)
-Smooth flip clock, neon style, fully responsive  
-> Includes sound effects & dark/light toggle
-
-### 📲 Android WebView App
-Web + JavaScript + Android Studio  
-> Your website as an Android app (offline + native)
-
----
-
-## 📊 GitHub Stats 
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Geethanjana;Full+Stack+Developer;Coding+Lover+%F0%9F%92%BB" alt="Typing SVG" />
+### 🚀 Languages & Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-DD0000?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=tokyonight&border_radius=15" alt="GitHub Stats" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=2009ishan&theme=tokyonight&border_radius=15" alt="GitHub Streak Stats" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2009ishan&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
-</p>
-
-<!-- Languages with Icons -->
-<h3 align="center">🛠️ Languages & Tools I Use</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" />
-</p>
 ---
 
-## 🧩 Features I Use in My Projects
-
-- [x] 🔊 Voice Control
-- [x] 🌗 Light/Dark Mode
-- [x] 🕒 Clocks and Timers
-- [x] 📱 WebView Android Apps
-- [x] 🎨 UI/UX Animations
-- [x] 🎵 Background Audio
-- [x] ⚙️ Settings Panels
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=radical&rank_icon=github" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2009ishan&layout=compact&theme=radical" height="200"/>
+</p>
 
 ---
 
-## 📬 Contact Me
-
-- 📧 Email: **ishangeethanjana2009.11.4@gmail.com**  
-- 🌍 Website: [ishangeethanjana.dev](https://ishangeethanjana.dev)  
-
----
----
-
+### 🔥 GitHub Streak:
 <p align="center">
-  🔥 *"I code not just for logic... I code for beauty, interaction, and fun!"*
+  <img src="https://streak-stats.demolab.com?user=2009ishan&theme=radical&hide_border=false" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=2009ishan&theme=radical&row=1&column=7"/>
+</p>
+
+---
+
+### 📫 Contact Me:
+📧 Email: *yourmail@example.com*  
+🌐 Website: [Your Portfolio Link]
+
+---
+
+<p align="center">⭐️ Follow for more cool projects! ⭐️</p>
