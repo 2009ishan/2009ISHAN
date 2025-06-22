@@ -6,7 +6,12 @@
 
 <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="400"/>
 
----
+--
+### 👁‍🗨 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2009ishan&label=👁‍🗨%20Profile%20Views&color=ff0000&style=flat-square" alt="Profile Views" />
+</p>
 
 ### 👨‍💻 About Me:
 - 🧠 I’m learning **HTML, CSS, JavaScript, Python, PHP, Ruby, Swift**
