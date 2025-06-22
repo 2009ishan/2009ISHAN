@@ -63,6 +63,28 @@ Web + JavaScript + Android Studio
 
 ![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=radical)
 
+<h1 align="center">Hi 👋, I'm Ishan Geethanjana</h1>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Coding+Lover;HTML+%7C+CSS+%7C+JavaScript+%7C+Python+%7C+Swift+%7C+Ruby+%7C+PHP" alt="Typing SVG" />
+</p>
+
+<!-- GitHub stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2009ishan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!-- Streak stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2009ishan&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- Top languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2009ishan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
 
 ## 🧩 Features I Use in My Projects
