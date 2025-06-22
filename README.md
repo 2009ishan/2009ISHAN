@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ishan Geethanjana</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=400&lines=Hi+I%27m+Ishan" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Creative+Developer;Loves+HTML%2C+CSS%2C+JS+%26+Python;Follow+for+cool+projects!" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1190662/screenshots/4045073/coding.gif" alt="Boy Coding Animation" width="400" />
 </p>
 
 ---
