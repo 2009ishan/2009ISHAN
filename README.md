@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://github.com/2009ishan/REPO_NAME/blob/main/hacker.png" width="200" alt="Coder Animation" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=lightblue&center=true&vCenter=true&width=600&lines=Hi+I'm+Ishan+Geethanjana" alt="Typing Animation" />
 </p>
 
