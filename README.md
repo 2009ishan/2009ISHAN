@@ -51,8 +51,8 @@
 ---
 
 ### 📫 Contact Me:
-📧 Email: *yourmail@example.com*  
-🌐 Website: [Your Portfolio Link]
+📧 Email: *ishangeethanjana2009.11.4@gmail.com*  
+🌐 Website: [www.geethanjana.com]
 
 ---
 
