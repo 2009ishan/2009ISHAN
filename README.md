@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Geethanjana</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishan+Geethanjana" alt="Typing Animation" />
+</p>
 <h3 align="center">💻 Full-Stack Coder | Mobile App Lover </h3>
 
 <p align="center">
