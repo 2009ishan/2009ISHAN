@@ -1,8 +1,4 @@
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/2009ishan/REPO_NAME/main/hacker.png" width="280" alt="Hacker Avatar">
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=lightblue&center=true&vCenter=true&width=600&lines=Hi+I'm+Ishan+Geethanjana" alt="Typing Animation" />
 </p>
@@ -10,6 +6,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Image" width="600"/>
 </p>
+
+<img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="400"/>
 
 ---
 
