@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Laptop Animation" width="500" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Image" width="600"/>
+</p>
 
 ---
 
