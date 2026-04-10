@@ -1,3 +1,12 @@
+# Hi there, I'm ishan! 👋
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Anime%20Lover%20&fontSize=90&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRyeGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/f6P27IQ57JDSXRm6mQ/giphy.gif" width="600" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=lightblue&center=true&vCenter=true&width=600&lines=Hi+I'm+Ishan+Geethanjana" alt="Typing Animation" />
